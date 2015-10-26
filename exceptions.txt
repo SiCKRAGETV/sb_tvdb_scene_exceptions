@@ -448,3 +448,7 @@
 281551: 'CSI Cyber',
 283917: 'Discovery channel Atlas 4D', 'Atlas 4D',
 269602: 'Reign',
+295555: 'Blood and Oil 2015',
+256296: 'BBC Decisive Weapons', 'Decisive Weapons',
+75052: 'Brainiac Science Abuse',
+293174: 'Ack Värmland','Ack Varmland'
